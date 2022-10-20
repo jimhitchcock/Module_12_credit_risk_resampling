@@ -38,8 +38,10 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 ## Summary
 
 * Both models did well predicting the creditworthiness of the borrowers however the oversampled data performed slightly better.
+  Here is the classification report for the original data:
 ![Screenshot_1](https://github.com/jimhitchcock/Module_12_credit_risk_resampling/blob/main/Resources/Original_data.png)
 
 * It is more important that we accurately predict the non-performing borrowers than it is to predict the performing loans.
+  Here is the classification report for the second batch, oversampled data:
 ![Screenshot_2](https://github.com/jimhitchcock/Module_12_credit_risk_resampling/blob/main/Resources/Oversampled_data.png)
 
